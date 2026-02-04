@@ -14,7 +14,7 @@ export const GAMES_DATA: GameInfo[] = [
     title: "Endless Fight",
     elevatorPitch: "Killing time - killing demons!",
     description: "Mobile arcade game available for playtest on itch.io",
-    image: "public/poster_wide_cut.png",
+    image: "/poster_wide_cut.png",
     gameUrl: "https://firestudio-entertainment.itch.io/endlessfight",
     pressKitUrl: ""
   },

@@ -1,4 +1,4 @@
-import { ContactUsSheet } from "@/components/ContactUsSheet"
+import { ContactUsSheet } from "@/components/ContactUsSheet";
 
 const navLinks = [
   { title: "Press Kit", href: "#press", type: "link" },
