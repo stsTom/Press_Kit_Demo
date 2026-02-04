@@ -10,7 +10,7 @@ function App() {
       <section id="home" className="relative py-50 text-white">
       <div className="absolute inset-0 z-0">
         <img 
-          src="public\main_bg.jpg" 
+          src="/main_bg.jpg" 
           className="h-full w-full object-cover" 
           alt="background" 
         />
@@ -27,7 +27,7 @@ function App() {
       <section id="games" className="relative text-white pb-30 pt-30 px-4 bg-slate-0 dark:bg-slate-600 justify-start">
         <div className="absolute inset-0 z-0">
         <img 
-          src="public\bg2.jpg" 
+          src="/bg2.jpg" 
           className="h-full w-full object-cover" 
           alt="background" 
         />
