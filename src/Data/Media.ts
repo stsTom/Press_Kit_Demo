@@ -1,5 +1,3 @@
-// src/constants/media.ts
-
 export interface MediaAsset {
   id: number;
   type: 'image' | 'video';

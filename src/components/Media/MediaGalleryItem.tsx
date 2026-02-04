@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import { useState } from 'react';
 import { Dialog, DialogContent } from "@/components/ui/dialog";
 import type { MediaAsset } from "@/Data/Media";
 import { Play } from "lucide-react";
